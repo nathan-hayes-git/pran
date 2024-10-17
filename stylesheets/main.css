@@ -1,4 +1,10 @@
 body {
+    color: palegreen;
+}
+
+h1 {
+    color: purple;
+
     color: red;
     background-color: pink;
 }
