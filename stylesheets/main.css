@@ -1,5 +1,12 @@
 body {
+    color: palegreen;
+}
+
+h1 {
+    color: purple;
+
     color: red;
+    background-color: pink;
 }
 
 
@@ -19,4 +26,9 @@ body {
     50% {
         background-position: 100% 0;
     }
+}
+
+p {
+    color:brown ;
+    font-size: x-large;
 }
