@@ -1,9 +1,5 @@
 body {
-    /* color: palegreen; */
-    background-color: lightgreen;
-    font-family: Calibri;
-    padding: 5px;
-    border: 3px solid red;
+    color: palegreen;
 }
 
 h1 {
